@@ -1,0 +1,14 @@
+#block{
+    width: 20px;
+    height: 30px;
+}
+#inline span{
+    margin: 20px;
+    padding: 40px;
+    background-color: red; 
+}
+#block span{
+    margin: 20px;
+    padding: 40px;
+    background-color: blueviolet;
+}
